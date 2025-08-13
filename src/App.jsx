@@ -90,8 +90,7 @@ function App() {
         {/* Footer */}
         <div className="text-center text-gray-600 text-sm py-4">
           <p>
-            Features: Loading states, error handling, responsive design,
-            expandable book cards, independent section controls
+            Ngontenin FrontEnd Test
           </p>
         </div>
       </div>
